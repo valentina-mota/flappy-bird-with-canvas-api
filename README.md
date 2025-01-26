@@ -16,7 +16,7 @@ A Flappy Bird-inspired game created using **JavaScript** and the **HTML5 Canvas 
     - `Arrow Left` / `Arrow Right`: Move the bird left or right.
    
 ## Controls
-Start the game: Click anywhere on the canvas.
-Jump: Click or press Arrow Up.
-Accelerate Downward: Press Arrow Down.
-Move Left/Right: Use Arrow Left and Arrow Right.
+- Start the game: Click anywhere on the canvas.
+- Jump: Click or press Arrow Up.
+- Accelerate Downward: Press Arrow Down.
+- Move Left/Right: Use Arrow Left and Arrow Right.
